@@ -8,5 +8,5 @@ AI can now review your pull requests!
   theme, whether it follows repo guidelines.
 
 🗨️You can summon the agent by simply addressing **@CodiumAI-Agent** in the PR comments,
- or automatically by installing the pr-agent to your repo.
+    or automatically by installing the pr-agent to your repo.
 
