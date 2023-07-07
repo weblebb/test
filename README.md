@@ -1,4 +1,4 @@
-# Testing Codium AI Pull Request Agent 
+# Testing Codium AI Agent 
 AI can now review your pull requests!
 
 🚀Open-source Pull Request (PR) Agent.<br />
